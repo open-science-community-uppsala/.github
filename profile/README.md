@@ -1,5 +1,3 @@
-# Open Science Uppsala
-
 ![](osu_logo_25.png)
 
 Open Science Uppsala is the Open Science community in Uppsala.
