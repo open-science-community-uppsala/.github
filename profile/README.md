@@ -4,7 +4,7 @@ Open Science Community Uppsala ('OSCU') is the Open Science community in Uppsala
 At OSCU, we have a monthly presentation at Stadsbilioteket,
 where one can meet other people that are fond and/or critical about Open Science.
 
-Our main page is at [https://bit.ly/open_science_community_uppsala](https://bit.ly/open_science_community_uppsala).
+Our main page is at [https://bit.ly/osc_uppsala](https://bit.ly/osc_uppsala).
 
 We are always looking for:
 
